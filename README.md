@@ -1,16 +1,16 @@
 # Data_Engineering_HW11
-Advanced SQL Data Storage & Retrieval 
-Homework 11
+<h1>Advanced SQL Data Storage & Retrieval </h1>
+<p>Homework 11</p>
 
-Completed 4 main objects in this assignment
-	-Data Engineering
-	-Database Engineering
-	-Climate Analysis
-	-Climate App
+<b>Completed 4 main objects in this assignment </b>
+	<p>-Data Engineering</p>
+	<p>-Database Engineering</p>
+	<p>-Climate Analysis</p>
+	<p>-Climate App</p>
 	
-Applications used:
-	-Pandas/Python
-	-MatPlotLib
-	-SQLAlchemy (ORM)
-	-SQL
-	-Flask
+<b>Applications used:</b>
+	<p>-Pandas/Python</p>
+	<p>-MatPlotLib</p>
+	<p>-SQLAlchemy (ORM)</p>
+	<p>-SQL</p>
+	<p>-Flask</p>
